@@ -11,5 +11,4 @@ RUN pip install https://github.com/owen198/notebook/raw/master/dist/notebook-5.6
     jupyter_console==5.2.0 \
     jupyter_core==4.4.0 \
     nbconvert==5.3.1 \
-    nbformat==4.4.0 \
-    https://github.com/benchuang11046/afs/releases/download/1.3.0/afs-1.3.0-py3-none-any.whl
+    nbformat==4.4.0
